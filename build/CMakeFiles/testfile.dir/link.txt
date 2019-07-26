@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/testfile.dir/testfile.c.o  -o testfile -rdynamic 
